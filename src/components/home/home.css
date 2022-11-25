@@ -15,57 +15,38 @@
   font-family: 'brandico', sans-serif;
 }
 
-.content{max-width:40%;
+.content{
+  max-width:40%;
   max-height:50%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
-.welcomeText,.form,.social{ width:100%; }
 /*welcome text*/
 .welcome{
   height:100px;
-  position:relative;
   border-bottom:1px solid;
-  overflow:hidden;
 }
 
 .greet{
   width:100%;
   height:100%;
-  position:absolute;
-  top:100%;
-  font-size:50px;
+  font-size:40px;
   text-align:center;
-  line-height:100px;
-  transition:all .5s;
 }
-/*taglines*/
-.subText{
-  width:100%;
-  height:100px;
-  position:relative;
-  font-size:30px;
-  overflow:hidden;
-}
-.subText p{
-  height:100%;
-  line-height:100px;
-  text-align:center;
 
+.subTexts > .subscribe{
+  font-size: 30px;
 }
-.subTexts{
-  width:100%;
-  position:absolute;
-  bottom:100%;
-  text-align:center;
-  overflow:hidden;
-  transition:all .5s;
+.subTexts > .soon{
+  font-size: 20px;
+  font-weight: 600;
 }
+
 
 .startBtn{
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 

@@ -6,20 +6,7 @@ import {
 
 export default function Home() {
 
-  useEffect(() => {
-   const textFunc =()=>{
-    window.addEventListener('load',function(){
-      var welcome = document.querySelector('.greet'),
-          subtext = document.querySelector('.subTexts'),
-          delay = 1000; 
-      setTimeout(function(){welcome.style.top='0';},delay);
-      setTimeout(function(){subtext.style.bottom = '0%';},delay*2);
-      setTimeout(function(){subtext.style.bottom = '-100%';},delay*4);
-       
-    });
-   }
-   textFunc();
-  }, [])
+  
 
   return (
     <div className='home'>
