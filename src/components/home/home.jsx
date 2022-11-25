@@ -17,8 +17,8 @@ export default function Home() {
           </div>
           <div className="subText">
             <div className="subTexts">
-              <p className="subscribe">to grow crops</p>
-              <p className="soon">Proving better solution</p>
+              <p className="subscribe">Proving better solution</p>
+              <p className="soon">to grow crops</p>
             </div>
           </div>
         </div>
