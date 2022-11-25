@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plantsols/static/css/main.f51f3167.css",
+    "main.js": "/plantsols/static/js/main.e4c46fea.js",
+    "index.html": "/plantsols/index.html",
+    "main.f51f3167.css.map": "/plantsols/static/css/main.f51f3167.css.map",
+    "main.e4c46fea.js.map": "/plantsols/static/js/main.e4c46fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51f3167.css",
+    "static/js/main.e4c46fea.js"
+  ]
+}
