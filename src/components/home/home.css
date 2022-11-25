@@ -49,16 +49,32 @@
   margin-top: 40px;
 }
 
-
-@media screen and (max-width:930px){
-  .subTexts p {font-size:20px}
-}
- 
-@media screen and (max-width:600px){
-  .welcome,.subText,.sub{background:rgba(255,255,255,.3);}
+@media (max-width: 575.98px) {
   .welcome{border-radius:20px 20px 0 0;}
   .subText{border-radius:0 0 20px 20px;}
   .sub{border:1px solid;}
   .greet{font-size:30px}
   .subTexts p {font-size:16px;}
+  .startBtn{
+    margin-top: 70px;
+  }
+}
+
+
+@media (max-width: 767.98px) {
+  
+}
+
+@media (max-width: 991.98px) {
+  .subTexts p {font-size:20px}
+}
+
+
+@media (max-width: 1199.98px) {
+  
+}
+
+
+@media (max-width: 1399.98px) {
+  
 }
