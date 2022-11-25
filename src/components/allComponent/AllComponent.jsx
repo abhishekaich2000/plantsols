@@ -3,6 +3,7 @@ import data from "../../data.json"
 import SingleComponent from '../singleComponent/SingleComponent'
 
 export default function AllComponent() {
+  console.log(data)
   return (
     <div className="container">
         <div className="row">

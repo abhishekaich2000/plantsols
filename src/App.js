@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Navbar/>
       <Routes>
-        <Route exact path="/" element={<AllComponent/>}/>
+        <Route exact path="/plantsols" element={<AllComponent/>}/>
         <Route path="/:id" element={<NewPost/>}/>
         <Route path="/about" element={<About/>}/>
       </Routes>
