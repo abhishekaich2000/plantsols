@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/plantsols/static/css/main.f51f3167.css",
-    "main.js": "/plantsols/static/js/main.24599717.js",
+    "main.css": "/plantsols/static/css/main.52dd6ec5.css",
+    "main.js": "/plantsols/static/js/main.7f1a9250.js",
+    "static/media/background.jpg": "/plantsols/static/media/background.fee6e75ff1e4ad4a8612.jpg",
     "index.html": "/plantsols/index.html",
-    "main.f51f3167.css.map": "/plantsols/static/css/main.f51f3167.css.map",
-    "main.24599717.js.map": "/plantsols/static/js/main.24599717.js.map"
+    "main.52dd6ec5.css.map": "/plantsols/static/css/main.52dd6ec5.css.map",
+    "main.7f1a9250.js.map": "/plantsols/static/js/main.7f1a9250.js.map"
   },
   "entrypoints": [
-    "static/css/main.f51f3167.css",
-    "static/js/main.24599717.js"
+    "static/css/main.52dd6ec5.css",
+    "static/js/main.7f1a9250.js"
   ]
 }
