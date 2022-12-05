@@ -10,18 +10,11 @@ export default function About() {
 
         Because we depend heavily on plants for our survival, it is our responsibility to safeguard them.
         <br />
-        You can get information about the many plants that can grow in your location on this page.
-        Farming is profession of hope!
-        Hope is the ability to realise that there is light despite the darkness.
-        Plantsols welcomes you!
+        Farming is profession of hope! Hope is the ability to realise that there is light despite the darkness. Plantsols welcomes you!
+        Here we obtain information about flora that consume less water and are specifically designed for Sennampatti Village. 
         <br />
-        Here we obtain information about flora that consume less water and are specifically designed for Sennampatti Village.
-        The foundation of our nation is agriculture"
-        Greetings from Plantsols!
-        All of your crop-related needs can be met by a single, uniquely Sennampatti-designed solution.
-        <br />
-        We must take responsibility for conserving plants because they are essential to our survival.
-        You can learn more about the different plants that can grow in your area thanks to this website.
+        விவசாயம் நம்பிக்கையின் தொழில்! நம்பிக்கை என்பது இருளாக இருந்தாலும் ஒளி இருப்பதை உணரும் திறன். Plantsols உங்களை வரவேற்கிறது!
+        சென்னம்பட்டி கிராமத்துக்காக வடிவமைக்கப்பட்ட, குறைந்த நீரை உட்கொள்ளும் தாவரங்கள் பற்றிய தகவல்களை இங்கே பெறுகிறோம்.
       </p>
     </div>
   )
