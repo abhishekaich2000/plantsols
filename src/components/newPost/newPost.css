@@ -1,8 +1,4 @@
-.newPost{
-  background: url("../../images/background.jpg");
-  object-fit: cover;
-  height: 100%;
-}
+
 
 .newPostContainer{
   padding-bottom: 30px;
