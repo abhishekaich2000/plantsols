@@ -9,6 +9,8 @@ import {
 import NewPost from './components/newPost/NewPost';
 import About from './components/about/About';
 import Home from './components/home/Home';
+import Help from './components/help/Help';
+import Irrigation from './components/irrigation/Irrigation';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
         <Route exact path="/plantsols" element={<Home/>}/>
         <Route path="/plantsols/feed/:id" element={<NewPost/>}/>
         <Route path="/about" element={<About/>}/>
+        <Route path="/help" element={<Help/>}/>
+        <Route path="/irrigation" element={<Irrigation/>}/>
       </Routes>
     </Router>
 
