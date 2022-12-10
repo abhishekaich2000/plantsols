@@ -6,7 +6,7 @@ export default function Help() {
     <div className="container help">
       <h2 className="helpText my-5">Help</h2>
       <h4>Agriculture and Farmers Welfare department</h4>
-      <img src="" alt="" />
+      <img className='my-3' src="http://drive.google.com/uc?export=view&id=1psXDzqYAr0vOocabeEKBCi1nsIBEcfdd" alt="" />
       <p>Thiru M.R.K. Panneerselvam</p>
       <p>Agriculture, Agricultural Engineering, Agro Service Co-operatives, Horticulture, Sugars, Sugarcane Excise, Sugarcane Development and Waste Land Development
       </p>

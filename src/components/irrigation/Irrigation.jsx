@@ -1,10 +1,12 @@
 import React from 'react'
+import "./irrigation.css"
 
 export default function Irrigation() {
   return (
     <div className="container irrigation">
       <h3 className='my-4'>Drip irrigation</h3>
       <p>Drip irrigation or trickle irrigation is a type of micro-irrigation system that has the potential to save water and nutrients by allowing water to drip slowly to the roots of plants, either from above the soil surface or buried below the surface.</p>
+    
       <h4>Advantages of Drip Irrigation:
       </h4>
       <ul>
@@ -27,8 +29,8 @@ export default function Irrigation() {
       </p>
       <p>Drip irrigation prevents overwatering. The system consists of interconnected drip irrigation tools such as emitters, hoses and valves. An emitter will consistently provide water to a plant's roots. Laying these tools out correctly will give the best results.</p>
 
-      <img src="" alt="" />
-      <img src="" alt="" />
+      <img className='my-3' src="http://drive.google.com/uc?export=view&id=1_RSQeRCoUf_k1DED8naq8aneDvMaZYrn" alt="" />
+      <img className='my-3 mx-4' src="http://drive.google.com/uc?export=view&id=1JyUoIUfLRP4k5GOLBU5tRSQd-9Or_4SS" alt="" />
 
       <p>Tamil Nadu govt raises subsidy for sugarcane farmers install-<a  target="_blank" rel="noopener noreferrer" href="https://timesofindia.indiatimes.com/city/coimbatore/tamil-nadu-govt-raises-subsidy-for-sugarcane-farmers-installing-for-drip-irrigation-system/articleshow/72225894.cms">Open</a></p>
 
@@ -36,7 +38,7 @@ export default function Irrigation() {
       <h3 className='my-4'>Sprinkler irrigation</h3>
       <p>Sprinkler/spray irrigation is the method of applying water to a controlled manner in that is similar to rainfall. The water is distributed through a network that may consist of pumps, valves, pipes, and sprinklers. Irrigation sprinklers can be used for residential, industrial, and agricultural usage.</p>
 
-      <img src="" alt="" />
+      <img className='my-3' src="http://drive.google.com/uc?export=view&id=1MU-iEYkhmEvo8sElR0iXKbEPsUEWuGaZ" alt="" />
       <p>Sprinkler irrigation is widely used because <b>it is versatile, adaptable to almost all crops, and affordable</b>. But it's not a perfect irrigation system. Spray irrigation is one of the most inefficient watering methods, wasting approximately 30 to 50% of the water applied through run-off and evaporation.</p>
 
       <p>Sprinkler irrigation is also called <b>overhead irrigation</b>. In this method of irrigation water is applied in the form of a spray or artificial rain. Water is sprayed into the air and allowed to fall on the ground surface somewhat resembling rainfall.</p>
