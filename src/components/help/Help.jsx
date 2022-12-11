@@ -13,17 +13,16 @@ export default function Help() {
       <p>Email-Id  :  minister_agri@tn.gov.in</p>
       <p>Tel.No     :  044-25670682</p>
       <hr/>
-      <p>C. Samayamoorthy IAS., ( Agricultural Production Commissioner and Secretary to Government )
+      <p>C. Samayamoorthy IAS ( Agricultural Production Commissioner and Secretary to Government )
       </p>
-      <p>Phone: 25674482</p>
+      <p>Phone : 25674482</p>
       <hr />
-      <p>Email: agrisec@tn.gov.in</p>
-      <p> https://www.tn.gov.in/</p>
-      <p>Announcements  :https://www.tn.gov.in/announcements</p>
-      <p>Contact: https://www.tn.gov.in/ta/contact_directory
-      </p>
-      <p>Schemes : https://www.tn.gov.in/scheme</p>
-      <p>Forms :https://www.tn.gov.in/forms/deptname</p>
+      <p>Email : agrisec@tn.gov.in</p>
+      <p><a target="_blank" rel="noopener noreferrer" href="https://www.tn.gov.in/">https://www.tn.gov.in/</a></p>
+      <p>Announcements : <a target="_blank" rel="noopener noreferrer" href="https://www.tn.gov.in/announcements">https://www.tn.gov.in/announcements</a></p>
+      <p>Contact : <a target="_blank" rel="noopener noreferrer" href="https://www.tn.gov.in/ta/contact_directory">https://www.tn.gov.in/ta/contact_directory</a></p>
+      <p>Schemes : <a target="_blank" rel="noopener noreferrer" href="https://www.tn.gov.in/scheme">https://www.tn.gov.in/scheme</a></p>
+      <p>Forms : <a target="_blank" rel="noopener noreferrer" href="https://www.tn.gov.in/forms/deptname">https://www.tn.gov.in/forms/deptname</a></p>
     </div>
   )
 }
