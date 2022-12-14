@@ -11,6 +11,7 @@ import About from './components/about/About';
 import Home from './components/home/Home';
 import Help from './components/help/Help';
 import Irrigation from './components/irrigation/Irrigation';
+import Resources from './components/resources/Resources';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="/about" element={<About/>}/>
         <Route path="/help" element={<Help/>}/>
         <Route path="/irrigation" element={<Irrigation/>}/>
+        <Route path="/resources" element={<Resources/>}/>
       </Routes>
     </Router>
 
